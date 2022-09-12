@@ -1,6 +1,9 @@
 #include <stdio.h>
+
 /**
- * Output using puts
+ *
+ *main-Entry point
+ *Return:Always 0 (Success)
  */
 
 
