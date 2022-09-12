@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/**
+ * Output using puts
+ */
 
 
 int main(void)
