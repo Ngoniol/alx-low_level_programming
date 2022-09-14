@@ -16,8 +16,11 @@ int main(void)
 			{
 				putchar(m);
 				putchar(n);
-				putchar(',');
-				putchar(' ');
+				if (m == 8 && n == 9)
+				{
+					putchar(',');
+					putchar(' ');
+				}
 			}
 		}
 	}
