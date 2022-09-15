@@ -2,6 +2,7 @@
 
 /**
  * _abs-abstract for numbers
+ * @n:input
  * Return:abstract value
  */
 int _abs(int n)
