@@ -16,9 +16,5 @@ void print_to_98(int n)
 		{
 			printf(", ");
 		}
-		if (num == 0)
-		{
-			printf("\n");
-		}
 	}
 }
