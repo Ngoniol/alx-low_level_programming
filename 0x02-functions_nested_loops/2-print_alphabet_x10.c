@@ -10,7 +10,7 @@ void print_alphabet_x10(void)
 	for (times = 0; times < 10; times++)
 	{
 		for (ch = 97; ch <= 122; ch++)
-			putchar(ch);
+			_putchar(ch);
 	}
-	putchar(10);
+	_putchar(10);
 }
