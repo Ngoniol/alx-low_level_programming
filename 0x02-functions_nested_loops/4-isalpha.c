@@ -2,7 +2,7 @@
 
 /**
  * _isalpha-All alphabets
- * c@:input
+ * @c:input
  * Return:1 if alphabet else 0
  */
 int _isalpha(int c)
