@@ -2,6 +2,7 @@
 
 /**
  * _islower-lowercase character
+ * @c:input
  * Return: 1 if lowercase else 0
  */
 int _islower(int c)
@@ -12,9 +13,7 @@ int _islower(int c)
 	{
 		result = 0;
 	}
-	if (c >= 97 && c <= 122)
-	{
+	else
 		result = 1;
-	}
 	return (result);
 }
