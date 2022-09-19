@@ -9,7 +9,7 @@ void more_numbers(void)
 
 	for (times = 0; times < 10; times++)
 	{
-		for (count = 48; count <= 57; count ++)
+		for (count = 48; count <= 57; count++)
 		{
 			_putchar(count);
 		}
