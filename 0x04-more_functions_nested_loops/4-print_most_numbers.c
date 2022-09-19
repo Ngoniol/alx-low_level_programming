@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
  * print_most_numbers-prints all digits apart from 2 and 4
