@@ -2,6 +2,7 @@
 
 /**
  * reset_to_98-Resets the value to 98
+ * @n:input
  */
 void reset_to_98(int *n)
 {
