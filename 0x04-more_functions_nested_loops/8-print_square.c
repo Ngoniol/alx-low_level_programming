@@ -6,7 +6,7 @@
  */
 void print_square(int size)
 {
-	int count;
+	int count, num;
 
 	if (n <= 0)
 		_putchar(10);
@@ -14,7 +14,7 @@ void print_square(int size)
 	{
 		for (count = 0; count <= size; count++)
 		{
-			for (count = 0; count <= size; count++)
+			for (num = 0; num <= size; num++)
 			{
 				_putchar(35);
 			}
