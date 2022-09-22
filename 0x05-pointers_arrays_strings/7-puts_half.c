@@ -8,7 +8,7 @@ void puts_half(char *str)
 {
 	int count = 0, num, half;
 
-	while (str[count--])
+	while (str[count])
 		count++;
 	half = count / 2;
 	for (num = count - 1; num >= half; num--)
