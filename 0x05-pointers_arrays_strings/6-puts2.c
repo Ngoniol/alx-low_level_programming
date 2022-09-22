@@ -12,6 +12,6 @@ void puts2(char *str)
 		count++;
 	for (num = 0; num <= count; num = num + 2)
 	{
-		_putchar(str[count]);
+		_putchar(str[num]);
 	}
 }
